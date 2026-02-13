@@ -1,0 +1,18 @@
+X Y force vitesse
+
+Coordonnées relatifs a un point au centre du terrain en y, et a 0.25*window_width en x de la zone a defendre
+Classiquement, force autour de 250 et vitesse autour de 75
+
+
+#T1
+0 0 250 75
+-50 -200 250 75
+-50 +200 250 75
+-140 -250 250 75
+-140 +250 250 75
+#T2
+0 0 250 75
++50 -200 250 75
++50 +200 250 75
++140 -250 250 75
++140 +250 250 75
