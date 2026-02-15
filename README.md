@@ -26,15 +26,17 @@ A Rugby simulation made in 2 weeks, developped with a homemade state machine and
 
 ## Screenshots
 
-State diagram 
+### State diagram 
 
-![image info](src/Assets/StateDiagram.png)
+![image info](pictures/StateDiagram.png)
 
-Pass
-![image info](src/Assets/Pass.gif)
 
-Contact
-![image info](src/Assets/contact.gif)
+### pass and dodge algorithm
+![image info](pictures/Pass.gif)
+
+
+### contact and dodge
+![image info](pictures/Contact.gif)
 
 
 
