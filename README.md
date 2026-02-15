@@ -1,6 +1,6 @@
 # AI (c++ - LightEngine(SFML))
 
-A Rugby simulation, made with a homemade state machine and realistic behaviour
+A Rugby simulation made in 2 weeks, developped with a homemade state machine and realistic behaviour
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
@@ -8,8 +8,8 @@ A Rugby simulation, made with a homemade state machine and realistic behaviour
 
 
 ## Features 
-- customable teams (in team.txt)
-- 
+- Different behaviours depending on the environnement 
+- Customable teams (in team.txt)
 
 
 
@@ -28,14 +28,21 @@ A Rugby simulation, made with a homemade state machine and realistic behaviour
 
 State diagram 
 
-![image info](src/Assets/1.png)
+![image info](src/Assets/StateDiagram.png)
+
+Pass
+![image info](src/Assets/Pass.gif)
+
+Contact
+![image info](src/Assets/contact.gif)
+
 
 
 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/slucasss/2DEngine.git
+   git clone https://github.com/slucasss/RubyGame.git
 
 3. Get the .sln for visual studio
 ```bash
@@ -43,9 +50,7 @@ State diagram
 ```
 
 3. Open it in visual studio
-
+                                    
 4. Compile
 
-5. Copy/paste the dlls in Debug file
-
-6. Run
+5. Run
