@@ -9,7 +9,7 @@ A Rugby simulation made in 2 weeks, developped with a homemade state machine and
 
 ## Features 
 - Different behaviours depending on the environnement 
-- Customable teams (in team.txt)
+- Customizable teams (in team.txt)
 
 
 
@@ -18,11 +18,11 @@ A Rugby simulation made in 2 weeks, developped with a homemade state machine and
 - D -> Draw debug mode
 - S -> Change control mode:
     - First mode:
-        - Left click -> move ball
-        - Right click -> force pass to a player
+        - Left click -> Move ball
+        - Right click -> Force pass to a player
     - Second mode:
-      - Left click -> select a player
-      - Right click -> move selected player
+      - Left click -> Select a player
+      - Right click -> Move selected player
 
 ## Screenshots
 
